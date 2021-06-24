@@ -1,0 +1,15 @@
+cache/
+
+imports/
+
+artifacts*
+coverage*
+flattened*
+
+deployments/
+exports/
+generated/
+
+contracts_v*
+
+node_modules/
